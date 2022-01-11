@@ -3,7 +3,7 @@ class Hero {
 	{
 		var options = { 
 			density: 8, 
-			frictionAir: 0
+			frictionAir: 10
 		};
 		this.x=x;
 		this.y=y;
